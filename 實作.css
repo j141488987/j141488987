@@ -1,0 +1,50 @@
+*{
+  margin: 6px;
+  text-align: center
+  
+}
+
+#title{
+  color:red;
+  font-size: 22pt;
+  position: relative;
+  top: 40px;
+  right: 480px;
+  
+}
+
+.large{  
+  color: red;
+  font-size: 18pt;
+  
+}
+p{
+  position: relative;
+  right: 360px;
+}
+}
+
+input{
+  border-color: black;
+  position:relative
+  left: 100px;
+}
+button{
+  font-family: arial;
+  font-size: 12pt;
+  border:hidden;
+  background-color: white;
+}
+a:link{
+  color:black
+}
+a:visited{
+  color:black
+}
+a:hover{
+  color: red;
+}
+a:active{
+  text-decoration: red underline;
+  border-bottom: 3px;
+}
